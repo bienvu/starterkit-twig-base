@@ -1,4 +1,7 @@
-# Base StarterKit for Twig 
+![license](https://img.shields.io/github/license/pattern-lab/starterkit-twig-base.svg)
+[![Packagist](https://img.shields.io/packagist/v/pattern-lab/starterkit-twig-base.svg)](https://packagist.org/packages/pattern-lab/starterkit-mustache-base) [![Gitter](https://img.shields.io/gitter/room/pattern-lab/php.svg)](https://gitter.im/pattern-lab/php)
+
+# Base StarterKit for Twig
 
 The Base StarterKit for Twig is meant to be used as a near-blank starting point for Twig-based projects in Pattern Lab.
 
