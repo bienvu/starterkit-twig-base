@@ -1,0 +1,22 @@
+{
+  "name": "starterkit-twig-base",
+  "version": "3.0.0",
+  "description": "Pattern Lab's Base StarterKit for Twig.",
+  "main": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pattern-lab/starterkit-twig-base.git"
+  },
+  "keywords": [
+    "Pattern Lab",
+    "Atomic Design",
+    "Twig",
+    "Starterkit"
+  ],
+  "author": "Dave Olsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pattern-lab/starterkit-twig-base/issues"
+  },
+  "homepage": "https://github.com/pattern-lab/starterkit-twig-base#readme"
+}
